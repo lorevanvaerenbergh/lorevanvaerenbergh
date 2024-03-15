@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Design Fundamentals, Graphics Editing, User Interface Design**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
